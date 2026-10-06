@@ -1,3 +1,5 @@
+#Made with Claude.ai assistance
+
 import ctypes
 import ctypes.wintypes
 
